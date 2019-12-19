@@ -1,0 +1,46 @@
+{
+    "name": "Georgia Tech",
+    "description": "<p>I came across the Georgia Tech API at a gathering of Universities to talk about another project, but learned they had a pretty robust API defined used Swagger. Looks like it is still a work in progress, but a great model to look at.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/georgia-tech.png",
+    "tags": [
+        "api provider",
+        "have api",
+        "universities",
+        "university in progress"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/georgia-tech\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Georgia Tech",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/georgia-tech.png",
+            "humanURL": "https:\/\/oae.gatech.edu\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/georgia-tech-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "https:\/\/oae.gatech.edu\/docs\/rest"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/oae.gatech.edu\/docs\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/oae.gatech.edu\/"
+        }
+    ]
+}
